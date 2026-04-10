@@ -6,9 +6,9 @@
 
 ## Why
 
-At 31, with a body scan showing 65.7 lbs of skeletal muscle mass and a target of 78 lbs, the gap between where I am and where I want to be is measurable. The problem was never motivation — it was the absence of a system. Without tracking, training sessions blur together, protein targets get missed by guesswork, and progress is invisible until it's too late to course-correct.
+At 31, with a body scan showing 65.7 lbs of skeletal muscle mass and a target of 78 lbs, the gap between where I am and where I want to be is measurable. The problem was never motivation - it was the absence of a system. Without tracking, training sessions blur together, protein targets get missed by guesswork, and progress is invisible until it's too late to course-correct.
 
-Most fitness apps are either too generic, too cluttered, or built for someone else's goals. I wanted something built around my exact numbers, my exact schedule, and my exact meals. Something that would tell me, at the end of every day, whether I did the work or not — without softening the verdict.
+Most fitness apps are either too generic, too cluttered, or built for someone else's goals. I wanted something built around my exact numbers, my exact schedule, and my exact meals. Something that would tell me, at the end of every day, whether I did the work or not - without softening the verdict.
 
 This is that tool.
 
