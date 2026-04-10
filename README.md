@@ -16,7 +16,7 @@ This is that tool.
 
 ## How
 
-Built entirely as a single HTML file using vanilla JavaScript, no frameworks, no build pipeline. Designed to be fast, portable, and fully owned — no third-party fitness platform controlling your data or monetizing your activity.
+Built entirely as a single HTML file using vanilla JavaScript, no frameworks, no build pipeline. Designed to be fast, portable, and fully owned - no third-party fitness platform controlling your data or monetizing your activity.
 
 **Tech stack:**
 - HTML, CSS, vanilla JavaScript
@@ -25,7 +25,7 @@ Built entirely as a single HTML file using vanilla JavaScript, no frameworks, no
 - Anthropic Claude API for AI coaching
 - GitHub Pages for hosting
 
-**Data storage:** All training data is saved to a private JSON file in your Google Drive appDataFolder — invisible to other apps, private to your account, and accessible from any device you authorize. localStorage serves as a fallback and offline cache.
+**Data storage:** All training data is saved to a private JSON file in your Google Drive appDataFolder - invisible to other apps, private to your account, and accessible from any device you authorize. localStorage serves as a fallback and offline cache.
 
 **AI coaching:** The daily and weekly review features call the Anthropic API directly from the browser, passing a complete snapshot of that day's exercise, nutrition, and hydration data. The coach reads everything across all tabs before generating an assessment.
 
@@ -42,13 +42,13 @@ A 4-tab web application accessible from any device at a permanent URL.
 - Progressive overload indicator: compares each session against the previous session of the same type and flags whether you went up in weight, volume, or held the same
 - Add, remove, and rename exercises with confirmation dialogs
 - Reset to defaults option if you want to restore the original list
-- Run tracking: distance (miles), pace (min/mile), duration, heart rate, elevation gain, RPE, notes — with a session history table showing distance deltas across sessions
-- Swim tracking: distance (meters), pace (min/100m), duration, stroke, laps, RPE, notes — with session history
+- Run tracking: distance (miles), pace (min/mile), duration, heart rate, elevation gain, RPE, notes - with a session history table showing distance deltas across sessions
+- Swim tracking: distance (meters), pace (min/100m), duration, stroke, laps, RPE, notes - with session history
 - Mobility drill lists for Rest day, post-Run, and post-Swim sessions
 
 ### Nutrition Tab
 - Daily protein tracker with a 150g target
-- Four pre-loaded meals matching my actual eating habits: breakfast, lunch, post-training snack, dinner — each with protein estimates
+- Four pre-loaded meals matching my actual eating habits: breakfast, lunch, post-training snack, dinner - each with protein estimates
 - One-tap meal logging
 - Edit any meal for days you ate differently, with custom protein entry
 - Extra protein items section for anything outside the four main meals (boiled eggs, Greek yogurt, protein shake)
@@ -61,7 +61,7 @@ A 4-tab web application accessible from any device at a permanent URL.
 
 ### AI Coach Tab
 - Daily Review: reads all logged data across exercise, nutrition, and hydration and generates a 4-sentence direct assessment covering what went well, the biggest gap, a specific fix for tomorrow, and a longer-term observation
-- Weekly Review: synthesizes the full week across all sessions, protein averages, and cardio data into three sections — what went well, what fell short, and specific improvements for next week
+- Weekly Review: synthesizes the full week across all sessions, protein averages, and cardio data into three sections - what went well, what fell short, and specific improvements for next week
 - Powered by Anthropic Claude API (requires your own API key, stored locally in your browser)
 
 ---
@@ -99,4 +99,4 @@ This project was built in a single evening working with Claude as a coding partn
 - Applying performance review feedback and distinguishing between genuinely impactful optimizations and premature ones at this scale
 - Deploying to GitHub Pages and managing the full release cycle from local testing to live URL
 
-The most valuable thing was learning to treat AI as a thinking partner on technical decisions, not just a code generator — pushing back on suggestions, asking for honest assessments of tradeoffs, and building something that actually fits my specific needs rather than a generic template.
+The most valuable thing was learning to treat AI as a thinking partner on technical decisions, not just a code generator - pushing back on suggestions, asking for honest assessments of tradeoffs, and building something that actually fits my specific needs rather than a generic template.
